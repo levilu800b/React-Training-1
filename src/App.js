@@ -58,40 +58,27 @@ class App extends React.Component {
 
 
   render() {
-    return ( <
-      >
-      <
-      Container >
-      <
-      Row >
-      <
-      Col className = "text-center" >
-      <
-      Button onClick = {
-        () => this.resetHandler()
-      } > Reset All < /Button> <
-      /Col> <
-      Col className = "text-center" >
-      <
-      Button onClick = {
-        () => this.addCounter()
-      } > Add Counter < /Button> <
-      /Col> <
-      Col className = "text-center" >
-      <
-      Button onClick = {
-        () => this.removeCounter()
-      } > Remove Counter < /Button> <
-      /Col> <
-      /Row> <
-      Row > {
-        this.state.counters
-      } <
-      /Row> <
-      /Container> <
-      />
-    );
-  }
+  return (
+    <>
+      <Container>
+        <Row>
+          <Col className="text-center">
+            <Button onClick={() => this.resetHandler()} > Reset All</Button>
+          </Col>
+          <Col className="text-center">
+            <Button onClick={() => this.addCounter()} > Add Counter</Button>
+          </Col>
+          <Col className="text-center">
+            <Button onClick={() => this.removeCounter()} > Remove Counter</Button>
+          </Col>
+        </Row>
+        <Row>
+          {this.state.counters}
+        </Row>
+      </Container>
+    </>
+  );
+}
 }
 
 
