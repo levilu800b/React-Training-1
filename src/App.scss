@@ -1,23 +1,8 @@
-$background: lightblue;
-$textcolour: white;
-
+@import 'variables';
+@import 'mixins';
+@import 'textStyles';
+@import 'counter';
 
 body {
   padding: 10px;
-}
-
-.counter {
-  border: 1px solid black;
-  padding: 5px;
-  display: inline-block;
-  margin: 5px;
-  background-color: $background;
-}
-
-h3 {
-  color: $textcolour;
-}
-
-p {
-  color: $textcolour;
 }
