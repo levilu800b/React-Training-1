@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Training-1/static/css/main.d6baef8d.chunk.css",
-    "main.js": "/React-Training-1/static/js/main.140190fa.chunk.js",
-    "main.js.map": "/React-Training-1/static/js/main.140190fa.chunk.js.map",
+    "main.css": "/React-Training-1/static/css/main.2a3641e8.chunk.css",
+    "main.js": "/React-Training-1/static/js/main.0727bd44.chunk.js",
+    "main.js.map": "/React-Training-1/static/js/main.0727bd44.chunk.js.map",
     "runtime-main.js": "/React-Training-1/static/js/runtime-main.b53cf4c7.js",
     "runtime-main.js.map": "/React-Training-1/static/js/runtime-main.b53cf4c7.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/React-Training-1/static/css/2.20aa2d7b.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.a93d7e97.chunk.js.map": "/React-Training-1/static/js/3.a93d7e97.chunk.js.map",
     "index.html": "/React-Training-1/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/React-Training-1/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.d6baef8d.chunk.css.map": "/React-Training-1/static/css/main.d6baef8d.chunk.css.map",
+    "static/css/main.2a3641e8.chunk.css.map": "/React-Training-1/static/css/main.2a3641e8.chunk.css.map",
     "static/js/2.ea9dd080.chunk.js.LICENSE.txt": "/React-Training-1/static/js/2.ea9dd080.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b53cf4c7.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.ea9dd080.chunk.js",
-    "static/css/main.d6baef8d.chunk.css",
-    "static/js/main.140190fa.chunk.js"
+    "static/css/main.2a3641e8.chunk.css",
+    "static/js/main.0727bd44.chunk.js"
   ]
 }
